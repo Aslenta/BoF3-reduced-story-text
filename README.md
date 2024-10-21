@@ -3,4 +3,4 @@ This patch is for the NTSC disc image for the intended purpose of speedrunning
 
 This mod removes the text from most of the story dialogue boxes which are slow to display
 
-I would recommend keeping backup copies of your original disc image
+I would recommend keeping a backup copy of your original disc image
