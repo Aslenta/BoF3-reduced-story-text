@@ -1,2 +1,6 @@
-# BoF3-reduced-story-text
-Breath of Fire III mod to remove text from story text boxes
+# Breath of Fire III patch for PSX NTSC disc
+This patch is for the NTSC disc image for the intended purpose of speedrunning
+
+This mod removes the text from most of the story dialogue boxes which are slow to display
+
+I would recommend keeping backup copies of your original disc image
